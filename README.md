@@ -13,7 +13,10 @@
 
 This Meteor app uses [React](https://react.dev/) to create a full-stack real-time chat app.
 
-You can check this video to see how this app works.
+You can check this video to see how this app works:
+
+https://github.com/meteor/devrel-test/assets/70247653/ef12d156-e864-401c-8e2a-40931ffbeca9
+
 
 ## Where do I start?
 

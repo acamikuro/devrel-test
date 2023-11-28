@@ -3,7 +3,7 @@
 ## Getting Started
 
 - Have Meteor installed
-  - If you do not have it installed, run `curl https://install.meteor.com/ | sh` if you are on a Mac or Linux or `npm i -g meteor` on Windows.
+  - If you do not have it installed, run `curl https://install.meteor.com/ | sh` if you are on a Mac or Linux or `npm i -g meteor` on Windows(Needs to be using Node v14).
   - For more information, see [Meteor's install page](https://docs.meteor.com/install.html).
 - Clone this repo
 - Run `meteor npm install`

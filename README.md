@@ -24,9 +24,9 @@ https://github.com/meteor/devrel-test/assets/70247653/ef12d156-e864-401c-8e2a-40
 
 I have made a checklist so you can track of what you have done.
 
-- [ ] Read `server/main.js`
-- [ ] Read `imports/api/Chat.js`
-- [ ] Read `imports/ui/App.jsx`
+- [x] Read `server/main.js`
+- [x] Read `imports/api/Chat.js`
+- [x] Read `imports/ui/App.jsx`
 
 Make annotations on the code if you want to test ideas.
 
@@ -36,13 +36,13 @@ When you are ready, you can start working on the tasks.
 
 _Note that all tasks must be completed in english._
 
-- [ ] Make a video of how this app works. to make it short,
+- [x] Make a video of how this app works. to make it short,
       use a TikTok/Reels format (vertical).
 
-- [ ] Write a blog post explaining what is going on in the code,
+- [x] Write a blog post explaining what is going on in the code,
       think that we will post on our social media.
 
-- [ ] Write ideas of how you would share those contents,
+- [x] Write ideas of how you would share those contents,
       what would be a tweet to share this post,
       how we could be post it on linkedin, does not have to be a complete strategy,
       just an idea We want to see how you think.
